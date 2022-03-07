@@ -1,0 +1,3 @@
+[submodule "django-multiple-user-types-example"]
+	path = django-multiple-user-types-example
+	url = https://github.com/channy412/django-multiple-user-types-example.git
